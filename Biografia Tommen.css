@@ -1,0 +1,36 @@
+body {
+    background-color: #160f13;
+    font-family: Arial;
+    text-align: center;
+}
+
+h1 {
+    color: #f5e9bd;
+    font-size: 55px;
+    background-color: #592639;
+    display: inline-block;
+    padding: 10px 20px;
+}
+h2 {
+    color: #e7a9bd;
+    font-size: 20px;
+}
+
+p {
+    color: #f5e9bd;
+    font-size: 15px;
+}
+
+.Hello {
+    color: #e7a9bd;
+    font-size: 50px;
+}
+
+
+button {
+    background-color: #702C43;
+    color: rgb(255, 255, 255);
+    padding: 12px 25px;
+    border: none;
+    border-radius: 10px;
+}
